@@ -6,9 +6,11 @@
 * [Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation)
 * [A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system)
 
-Instructors: `Martha White` and `Adam White`
+**Instructors**: `Martha White` and `Adam White`
 
-Reference Materials:
+## Reference Materials:
+
+Repo - https://github.com/dennybritz/reinforcement-learning
 
 [CS234 Stanford University - Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
 * [video playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
