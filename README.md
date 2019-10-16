@@ -10,7 +10,9 @@
 
 ## Reference Materials:
 
-Repo - https://github.com/dennybritz/reinforcement-learning
+**Repo** - https://github.com/dennybritz/reinforcement-learning
+
+[David Silver Reinforcement Learning course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 [CS234 Stanford University - Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
 * [video playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
