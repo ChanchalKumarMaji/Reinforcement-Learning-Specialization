@@ -10,6 +10,8 @@
 
 **Instructors**: `Martha White` and `Adam White`
 
+These course materials belong entirely to `University of Alberta` & `Alberta Machine Intelligence Institute`. The solutions are only mine.
+
 ## Reference Materials:
 
 **Repo** - https://github.com/dennybritz/reinforcement-learning
