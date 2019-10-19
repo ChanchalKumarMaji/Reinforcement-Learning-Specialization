@@ -16,6 +16,4 @@ These course materials belong entirely to `University of Alberta` & `Alberta Mac
 
 **Repo** - https://github.com/dennybritz/reinforcement-learning
 
-**David Silver Reinforcement Learning course**
-  + [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-  + [youtube-playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+**David Silver Reinforcement Learning course** - [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html), [YouTube-playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
