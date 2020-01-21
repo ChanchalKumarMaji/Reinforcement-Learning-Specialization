@@ -2,8 +2,17 @@
 
 **[Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)**
 + **[Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)**
-  + [Notebook: Bandits and Exploration/Exploitation](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Fundamentals%20of%20Reinforcement%20Learning/Week%201/Notebook%3A%20Bandits%20and%20Exploration-Exploitation/C1M1-Assignment1-v8.ipynb)
-  + [Notebook: Optimal Policies with Dynamic Programming](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Fundamentals%20of%20Reinforcement%20Learning/Week%204/Notebook%3A%20Optimal%20Policies%20with%20Dynamic%20Programming/C1M4_Assignment2-v2.ipynb)
+  + Week 1
+    + [Practice Quiz: Exploration-Exploitation](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Fundamentals%20of%20Reinforcement%20Learning/Week%201/Practice%20Quiz:%20Exploration-Exploitation.pdf)
+    + [Notebook: Bandits and Exploration/Exploitation](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Fundamentals%20of%20Reinforcement%20Learning/Week%201/Notebook%3A%20Bandits%20and%20Exploration-Exploitation/C1M1-Assignment1-v8.ipynb)
+  + Week 2
+    + [Practice Quiz: MDPs](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Fundamentals%20of%20Reinforcement%20Learning/Week%202/Practice%20Quiz:%20MDPs.pdf)
+  + Week 3
+    + [Practice Quiz: Value Functions and Bellman Equations](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Fundamentals%20of%20Reinforcement%20Learning/Week%203/Practice%20Quiz:%20Value%20Functions%20and%20Bellman%20Equations.pdf)
+    + [Quiz: Value Functions and Bellman Equations](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Fundamentals%20of%20Reinforcement%20Learning/Week%203/Quiz:%20Value%20Functions%20and%20Bellman%20Equations.pdf)
+  + Week 4
+    + [Practice Quiz: Dynamic Programming](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Fundamentals%20of%20Reinforcement%20Learning/Week%204/Practice%20Quiz:%20Dynamic%20Programming.pdf)
+    + [Notebook: Optimal Policies with Dynamic Programming](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Fundamentals%20of%20Reinforcement%20Learning/Week%204/Notebook%3A%20Optimal%20Policies%20with%20Dynamic%20Programming/C1M4_Assignment2-v2.ipynb)
 + **[Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)**
 + **[Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation)**
 + **[A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system)**
