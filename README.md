@@ -23,7 +23,7 @@
     + [Notebook: Policy Evaluation with Temporal Difference Learning](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%203/Notebook%3A%20Policy%20Evaluation%20with%20Temporal%20Difference%20Learning/C2M2-Assignment-v4.ipynb)
   + Week 4
     + [Quiz: Practice Quiz](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%204/Quiz:%20Practice%20Quiz.pdf)
-    + [Notebook: Q-learning and Expected Sarsa Submission](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%204/Notebook%3A%20Q-learning%20and%20Expected%20Sarsa%20Submission/C2M3_Assignment2_v6.ipynb)
+    + [Notebook: Q-Learning and Expected Sarsa](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%204/Notebook%3A%20Q-learning%20and%20Expected%20Sarsa%20Submission/C2M3_Assignment2_v6.ipynb)
   + Week 5
     + [Quiz: Practice Assessment](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%205/Quiz:%20Practice%20Assessment.png)
     + [Notebook: Dyna-Q and Dyna-Q+]()
