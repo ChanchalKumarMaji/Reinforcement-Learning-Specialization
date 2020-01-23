@@ -14,7 +14,6 @@
     + [Practice Quiz: Dynamic Programming](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Fundamentals%20of%20Reinforcement%20Learning/Week%204/Practice%20Quiz:%20Dynamic%20Programming.pdf)
     + [Notebook: Optimal Policies with Dynamic Programming](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Fundamentals%20of%20Reinforcement%20Learning/Week%204/Notebook%3A%20Optimal%20Policies%20with%20Dynamic%20Programming/C1M4_Assignment2-v2.ipynb)
 + **[Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)**
-  + Week 1
   + Week 2
     + [Quiz: Graded Quiz](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%202/Quiz:%20Graded%20Quiz.pdf)
     + [Notebook: Blackjack](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%202/Notebook%3A%20Blackjack/Blackjack.ipynb)
@@ -28,7 +27,17 @@
     + [Quiz: Practice Assessment](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%205/Quiz:%20Practice%20Assessment.png)
     + [Notebook: Dyna-Q and Dyna-Q+]()
 + **[Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation)**
+  + Week 1
+  + Week 2
+  + Week 3
+  + Week 4
 + **[A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system)**
+  + Week 2
+  + Week 3
+  + Week 4
+  + Week 5
+  + Week 6
+
 
 **Instructors**: `Martha White` and `Adam White`
 
