@@ -16,9 +16,17 @@
 + **[Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)**
   + Week 1
   + Week 2
+    + [Quiz: Graded Quiz]()
+    + [Notebook: Blackjack]()
   + Week 3
+    + [Quiz: Practice Quiz]()
+    + [Notebook: Policy Evaluation with Temporal Difference Learning]()
   + Week 4
+    + [Quiz: Practice Quiz]()
+    + [Notebook: Q-learning and Expected Sarsa Submission]()
   + Week 5
+    + [Quiz: Practice Assessment]()
+    + [Notebook: Dyna-Q and Dyna-Q+]()
 + **[Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation)**
 + **[A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system)**
 
