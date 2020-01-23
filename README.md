@@ -17,13 +17,13 @@
   + Week 1
   + Week 2
     + [Quiz: Graded Quiz](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%202/Quiz:%20Graded%20Quiz.pdf)
-    + [Notebook: Blackjack]()
+    + [Notebook: Blackjack](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%202/Notebook%3A%20Blackjack/Blackjack.ipynb)
   + Week 3
     + [Quiz: Practice Quiz](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%203/Quiz:%20Practice%20Quiz.pdf)
-    + [Notebook: Policy Evaluation with Temporal Difference Learning]()
+    + [Notebook: Policy Evaluation with Temporal Difference Learning](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%203/Notebook%3A%20Policy%20Evaluation%20with%20Temporal%20Difference%20Learning/C2M2-Assignment-v4.ipynb)
   + Week 4
     + [Quiz: Practice Quiz](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%204/Quiz:%20Practice%20Quiz.pdf)
-    + [Notebook: Q-learning and Expected Sarsa Submission]()
+    + [Notebook: Q-learning and Expected Sarsa Submission](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%204/Notebook%3A%20Q-learning%20and%20Expected%20Sarsa%20Submission/C2M3_Assignment2_v6.ipynb)
   + Week 5
     + [Quiz: Practice Assessment](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%205/Quiz:%20Practice%20Assessment.png)
     + [Notebook: Dyna-Q and Dyna-Q+]()
