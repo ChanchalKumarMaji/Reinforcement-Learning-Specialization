@@ -28,7 +28,11 @@
     + [Notebook: Dyna-Q and Dyna-Q+]()
 + **[Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation)**
   + Week 1
+    + [Practice Quiz: On-policy Prediction with Approximation](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Week%201/Practice%20Quiz:%20On-policy%20Prediction%20with%20Approximation.pdf)
+    + [Notebook: Semi-gradient TD(0) with State Aggregation](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Week%201/Notebook%3A%20Semi-gradient%20TD%280%29%20with%20State%20Aggregation/C3M1_Assignment1-v8.ipynb)
   + Week 2
+    + [Practice Quiz: Constructing Features for Prediction](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Week%202/Practice%20Quiz:%20Constructing%20Features%20for%20Prediction.pdf)
+    + [Notebook: Semi-gradient TD with a Neural Network](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Week%202/Notebook%3A%20Semi-gradient%20TD%20with%20a%20Neural%20Network/C3M2_Assignment2-v7.ipynb)
   + Week 3
   + Week 4
 + **[A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system)**
