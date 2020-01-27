@@ -34,6 +34,8 @@
     + [Practice Quiz: Constructing Features for Prediction](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Week%202/Practice%20Quiz:%20Constructing%20Features%20for%20Prediction.pdf)
     + [Notebook: Semi-gradient TD with a Neural Network](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Week%202/Notebook%3A%20Semi-gradient%20TD%20with%20a%20Neural%20Network/C3M2_Assignment2-v7.ipynb)
   + Week 3
+    + [Practice Quiz: Control with Approximation](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Week%203/Practice%20Quiz:%20Control%20with%20Approximation.png)
+    + [Notebook: Function Approximation and Control](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Week%203/Notebook%3A%20Function%20Approximation%20and%20Control/Assignment3-v3.ipynb)
   + Week 4
 + **[A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system)**
   + Week 2
