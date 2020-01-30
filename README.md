@@ -25,7 +25,7 @@
     + [Notebook: Q-Learning and Expected Sarsa](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%204/Notebook%3A%20Q-Learning%20and%20Expected%20Sarsa/C2M3_Assignment2_v6.ipynb)
   + Week 5
     + [Quiz: Practice Assessment](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%205/Quiz:%20Practice%20Assessment.png)
-    + [Notebook: Dyna-Q and Dyna-Q+]()
+    + [Notebook: Dyna-Q and Dyna-Q+](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Week%205/Notebook:%20Dyna-Q%20and%20Dyna-Q%2B/Planning_Assignment-v2.ipynb)
 + **[Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation)**
   + Week 1
     + [Practice Quiz: On-policy Prediction with Approximation](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Week%201/Practice%20Quiz:%20On-policy%20Prediction%20with%20Approximation.pdf)
