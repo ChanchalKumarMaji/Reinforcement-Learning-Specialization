@@ -37,6 +37,8 @@
     + [Practice Quiz: Control with Approximation](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Week%203/Practice%20Quiz:%20Control%20with%20Approximation.png)
     + [Notebook: Function Approximation and Control](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Week%203/Notebook%3A%20Function%20Approximation%20and%20Control/Assignment3-v3.ipynb)
   + Week 4
+    + [Practice Quiz: Policy Gradient Methods]()
+    + [Notebook: Average Reward Softmax Actor-Critic using Tile-coding](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Week%204/Notebook%3A%20Average%20Reward%20Softmax%20Actor-Critic%20using%20Tile-coding/C3M4_Assignment4-v8.ipynb)
 + **[A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system)**
   + Week 2
   + Week 3
