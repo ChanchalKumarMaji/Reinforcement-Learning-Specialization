@@ -62,10 +62,10 @@ These course materials belong entirely to `University of Alberta` & `Alberta Mac
 <kbd><img src="https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Fundamentals%20of%20Reinforcement%20Learning/Certificate/Certificate.jpg" /></kbd>
 
 
-<kbd><img src="" /></kbd>
+<kbd><img src="https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Sample-based%20Learning%20Methods/Certificate/Certificate.jpg" /></kbd>
 
 
-<kbd><img src="" /></kbd>
+<kbd><img src="https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Certificate/Certificate.jpg" /></kbd>
 
 
 <kbd><img src="" /></kbd>
