@@ -41,7 +41,9 @@
     + [Notebook: Average Reward Softmax Actor-Critic using Tile-coding](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Week%204/Notebook%3A%20Average%20Reward%20Softmax%20Actor-Critic%20using%20Tile-coding/C3M4_Assignment4-v8.ipynb)
 + **[A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system)**
   + Week 2
+    + [Notebook: MoonShot Technologies](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/A%20Complete%20Reinforcement%20Learning%20System%20%28Capstone%29/Week%202/Notebook%3A%20MoonShot%20Technologies/Assignment1-v2.ipynb)
   + Week 3
+    + [Quiz: Choosing the Right Algorithm](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Week%203/Quiz:%20Choosing%20the%20Right%20Algorithm.pdf)
   + Week 4
   + Week 5
   + Week 6
