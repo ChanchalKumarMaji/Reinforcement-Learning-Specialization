@@ -45,8 +45,11 @@
   + Week 3
     + [Quiz: Choosing the Right Algorithm](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Week%203/Quiz:%20Choosing%20the%20Right%20Algorithm.pdf)
   + Week 4
+    + [Quiz: Impact of Parameter Choices in RL](https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Week%204/Quiz:%20Impact%20of%20Parameter%20Choices%20in%20RL.pdf)
   + Week 5
+    + [Notebook: Implement Your Agent](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/A%20Complete%20Reinforcement%20Learning%20System%20%28Capstone%29/Week%205/Notebook%3A%20Implement%20Your%20Agent/Course4ProgrammingAssignment2-v4.ipynb)
   + Week 6
+    + [Notebook: Completing the parameter study](https://nbviewer.jupyter.org/github/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/A%20Complete%20Reinforcement%20Learning%20System%20%28Capstone%29/Week%206/Notebook%3A%20Completing%20the%20parameter%20study/C4M5_Assignment3-v9.ipynb)
 
 
 **Instructors**: `Martha White` and `Adam White`
@@ -61,7 +64,7 @@ These course materials belong entirely to `University of Alberta` & `Alberta Mac
 + David Silver Reinforcement Learning course - [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html), [YouTube-playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
 
-<kbd><img src="" /></kbd>
+<kbd><img src="https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Certificate/Certificate.jpg" /></kbd>
 
 
 <kbd><img src="https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Fundamentals%20of%20Reinforcement%20Learning/Certificate/Certificate.jpg" /></kbd>
@@ -73,4 +76,4 @@ These course materials belong entirely to `University of Alberta` & `Alberta Mac
 <kbd><img src="https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/Prediction%20and%20Control%20with%20Function%20Approximation/Certificate/Certificate.jpg" /></kbd>
 
 
-<kbd><img src="" /></kbd>
+<kbd><img src="https://github.com/ChanchalKumarMaji/Reinforcement-Learning-Specialization/blob/master/A%20Complete%20Reinforcement%20Learning%20System%20(Capstone)/Certificate/Certificate.jpg" /></kbd>
